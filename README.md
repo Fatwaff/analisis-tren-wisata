@@ -1,4 +1,4 @@
-# analisis-tren-wisata
+# ANALISIS TREN WISATA WITH DBSCAN ALGORITM
 
 | No | Nama                         | NPM    |
 |----|------------------------------|--------|
