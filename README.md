@@ -1,13 +1,20 @@
-# ANALISIS TREN WISATA WITH DBSCAN ALGORITHM
+# Analisis Tren Wisata dengan Algoritma DBSCAN
 
-| No | Nama                         | NPM    |
-|----|------------------------------|--------|
-| 1  | Fatwa Fatahillah Fatah       | 1214038|
-| 2  | Erdito Nausha Adam           | 1214031|
-| 3  | Aryka Anisa Pertiwi          | 1214035|
-| 4  | Fedhira Syaila Putri Azzahra | 1214028|
+| No  | Nama                         | NPM     |
+| --- | ---------------------------- | ------- |
+| 1   | Fatwa Fatahillah Fatah       | 1214038 |
+| 2   | Erdito Nausha Adam           | 1214031 |
+| 3   | Aryka Anisa Pertiwi          | 1214035 |
+| 4   | Fedhira Syaila Putri Azzahra | 1214028 |
 
+## Pendahuluan
 
-# PENDAHULUAN
-Industri pariwisata adalah salah satu industri paling dinamis dan kompetitif di dunia. Dengan munculnya destinasi baru dan perubahan preferensi wisatawan, agen perjalanan menghadapi tantangan besar dalam merancang paket wisata yang menarik dan relevan. Dalam konteks ini, kemampuan menganalisis tren pariwisata menjadi sangat penting. Analisis mendalam dapat membantu agen perjalanan memahami perilaku wisatawan, mengidentifikasi destinasi yang sedang booming, dan membuat paket wisata yang disesuaikan dengan preferensi dan kebutuhan pasar. 
-Tren adalah suatu gaya atau pola yang mengalami perkembangan dan perubahan yang menjadi populer dalam periode tertentu. Buku "Panduan Praktis Analisis Tren Perjalanan dengan Algoritma DBSCAN" lahir untuk memenuhi kebutuhan wisatawan kebutuhan ini. Algoritma DBSCAN (Density Based Spatial Clustering with Noise) adalah alat yang ampuh untuk mengidentifikasi pola dan cluster dalam data, yang dapat memberikan wawasan berharga bagi agen pariwisata. Melalui panduan ini, pembaca akan mempelajari cara menerapkan DBSCAN dalam analisis data tren wisata untuk mengetahui wisata apa yang sedang tren dan mengoptimalkan strategi bisnis agen  perjalanan. Melalui dataset yang terdiri dari Place_Id, Place_Name, Description,  Category, City, Price, Rating, Time_Minutes, Coordinate, Lat, Long yang kami dapat dari kaggle. Tujuan utama buku ini adalah membantu agen perjalanan memahami preferensi wisatawan dengan menganalisis perjalanan data dan ulasan, mengidentifikasi destinasi populer dengan menemukan kelompok destinasi yang diminati, dan mengoptimalkan paket wisata yang lebih sesuai dan menarik berdasarkan hasil analisis tren. Dengan pendekatan berbasis data ini, agen perjalanan dapat mengambil keputusan yang lebih cerdas dan strategis, memastikan bahwa paket wisata yang ditawarkan tidak hanya memenuhi kebutuhan wisatawan tetapi juga meningkatkan keuntungan bagi perusahaan. 
+<p align="justify">
+Industri pariwisata yang dinamis dan kompetitif menuntut agen perjalanan untuk merancang paket wisata yang relevan di tengah perubahan preferensi wisatawan. Kemampuan menganalisis tren pariwisata menjadi penting untuk memahami perilaku wisatawan dan mengidentifikasi destinasi populer. Buku "Panduan Praktis Analisis Tren Perjalanan dengan Algoritma DBSCAN" hadir untuk membantu agen perjalanan menggunakan algoritma DBSCAN (Density Based Spatial Clustering with Noise) dalam menganalisis data tren wisata. Dengan dataset dari Kaggle yang mencakup berbagai informasi destinasi, panduan ini mengajarkan cara memahami preferensi wisatawan, menemukan destinasi populer, dan mengoptimalkan paket wisata. Pendekatan berbasis data ini memungkinkan agen perjalanan membuat keputusan yang lebih cerdas dan strategis, memastikan paket wisata yang ditawarkan memenuhi kebutuhan wisatawan dan meningkatkan keuntungan perusahaan.
+</p>
+
+## Hasil Analisis
+
+Berikut adalah salah satu contoh visualisasi hasil dari analisis tren di Jakarta.
+
+![Screenshot 2024-07-29 171335](https://github.com/user-attachments/assets/ef4f894c-c590-4cc9-a5a8-836d315cf048)
