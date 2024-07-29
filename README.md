@@ -15,6 +15,6 @@ Industri pariwisata yang dinamis dan kompetitif menuntut agen perjalanan untuk m
 
 ## Hasil Analisis
 
-Berikut adalah salah satu contoh visualisasi hasil dari analisis tren di Jakarta.
+Berikut adalah salah satu contoh visualisasi hasil dari analisis tren di Jakarta mennggunakan dataset dari <a href="https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination/data?select=tourism_with_id.csv">Kaggle</a>
 
 ![Screenshot 2024-07-29 171335](https://github.com/user-attachments/assets/ef4f894c-c590-4cc9-a5a8-836d315cf048)
